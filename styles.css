@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(250, 225, 200);
+}
+
+.title {
+    font-family: "Brush Script MT", cursive, sans-serif;
+    text-align: center;
+    background-color: rgb(250, 125, 100);
+    font-size: 48px;
+}
+
+.navlink {
+    background-color: rgb(255, 210, 125);
+}
+
+.navlink a {
+    color: #000;
+}
+
+.header {
+    background-color: rgb(150, 225, 0);
+}
+
+.section {
+    background-color: rgb(255, 250, 225);
+}
